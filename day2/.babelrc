@@ -1,0 +1,4 @@
+{
+    "presets":["env"], //对es6的支持
+    "plugins": ["add-module-exports"] //对node的支持
+}
